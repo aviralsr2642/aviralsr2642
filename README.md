@@ -1,4 +1,4 @@
-# 👾 Aviral Srivastava — Cybersecurity Engineer | Offensive AI Researcher | Red Teamer
+# 👾 Aviral Srivastava — Security Engineer L4 @Amazon | Ads Security team |
 
 ![Cyberpunk Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Aviral%20Srivastava&height=200&fontSize=40&animation=twinkling)
 
